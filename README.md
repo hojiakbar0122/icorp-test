@@ -45,5 +45,7 @@ Ma'lumotlar `POST` va `GET` orqali yuboriladi va yakuniy xabar olinadi.
      ```
 
 2. **Serverni ishga tushirish**
-    Terminalda:
+    - Terminalda:
+    ```bash
     npm start
+    ```
